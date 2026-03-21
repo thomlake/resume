@@ -15,10 +15,10 @@ Agent runtimes, evaluation, interactive environments, recommender systems, and p
 
 ## Selected Publications
 
-- [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444) NeurIPS 2025 (Datasets & Benchmarks)
-- [From Distributional to Overton Pluralism: Investigating Large Language Model Alignment](https://arxiv.org/abs/2406.17692) NAACL 2025 (Main Conference)
-- [Flexible Job Classification with Zero-Shot Learning](https://arxiv.org/abs/2209.12678) RecSys 2022 (RecSys in HR)
-- [Large-scale Collaborative Filtering with Product Embeddings](https://arxiv.org/abs/1901.04321) 2018 (Unpublished)
+- [From Distributional to Overton Pluralism: Investigating Large Language Model Alignment](https://arxiv.org/abs/2406.17692) NAACL 2025
+- [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444) NeurIPS 2025
+- [Flexible Job Classification with Zero-Shot Learning](https://arxiv.org/abs/2209.12678) RecSys in HR'22
+- [Large-scale Collaborative Filtering with Product Embeddings](https://arxiv.org/abs/1901.04321) 2018
 
 ## Experience
 
