@@ -2,7 +2,9 @@
 
 **AI | Deep Learning | Machine Learning**
 
-📍 Austin, Texas ✉️ [thom.l.lake@gmail.com](mailto:thom.l.lake@gmail.com) 🌐 [https://thomlake.github.io](https://thomlake.github.io)
+📍 Austin, Texas  
+✉️ [thom.l.lake@gmail.com](mailto:thom.l.lake@gmail.com)  
+🌐 [https://thomlake.github.io](https://thomlake.github.io)
 
 AI researcher building production language-model systems. My work brings together agentic systems, human–computer interaction, and evaluation in settings where correctness is not well-defined.
 
