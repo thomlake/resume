@@ -47,7 +47,7 @@ Dynamic Bayesian networks for one-shot exercise classification, repetition count
 
 Data Scientist (2013–2014)
 
-Statistical NLP and heuristics for normalization and search of free-form biological text.
+Statistical NLP for normalization of semi-structured text.
 
 ### Western Michigan University — Kalamazoo, Michigan
 
