@@ -11,7 +11,7 @@ My work brings together agentic systems, simulation, principled evaluation, and 
 
 ### Research Interests
 
-Agent runtimes, evaluation of open-ended AI systems, post-training methods for reasoning, coherence, and memory management, recommender systems
+Agent runtimes, evaluation, interactive environments, post-training methods for reasoning, coherence, and memory management, recommender systems
 
 ## Selected Publications
 
