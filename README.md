@@ -9,9 +9,7 @@
 I work on language-model systems for open-ended problems.
 My work brings together agentic systems, simulation, principled evaluation, and human–computer interaction.
 
-### Research Interests
-
-Agent runtimes, evaluation, interactive environments, recommender systems, and post-training methods for reasoning, coherence, and memory management
+**Research Interests:** Agent runtimes, evaluation, interactive environments, recommender systems, and post-training methods for reasoning, coherence, and memory management
 
 ## Selected Publications
 
