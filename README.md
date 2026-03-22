@@ -1,8 +1,4 @@
-# Thom Lake
-
-> Markdown resumes
-
-Last updated: 2026-03-22
+# thomlake/resume
 
 - [short](thomlake-resume-short.md)
 - [long](thomlake-resume-long.md)
